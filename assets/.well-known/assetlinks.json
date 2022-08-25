@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.kmrl_connect_to_business",
+            "sha256_cert_fingerprints": [
+                "C5:37:92:3A:B8:AE:A9:ED:90:8E:7D:35:14:D2:A7:91:EB:BB:00:F9:A6:AA:D7:FC:C6:7A:BC:E9:7E:E0:A7:32"
+            ]
+        }
+    }
+]
